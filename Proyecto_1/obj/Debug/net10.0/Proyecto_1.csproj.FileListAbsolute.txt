@@ -1,0 +1,15 @@
+C:\PC1\PL_1\Proyecto_1\bin\Debug\net10.0\Proyecto_1.exe
+C:\PC1\PL_1\Proyecto_1\bin\Debug\net10.0\Proyecto_1.deps.json
+C:\PC1\PL_1\Proyecto_1\bin\Debug\net10.0\Proyecto_1.runtimeconfig.json
+C:\PC1\PL_1\Proyecto_1\bin\Debug\net10.0\Proyecto_1.dll
+C:\PC1\PL_1\Proyecto_1\bin\Debug\net10.0\Proyecto_1.pdb
+C:\PC1\PL_1\Proyecto_1\obj\Debug\net10.0\Proyecto_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PC1\PL_1\Proyecto_1\obj\Debug\net10.0\Proyecto_1.AssemblyInfoInputs.cache
+C:\PC1\PL_1\Proyecto_1\obj\Debug\net10.0\Proyecto_1.AssemblyInfo.cs
+C:\PC1\PL_1\Proyecto_1\obj\Debug\net10.0\Proyecto_1.csproj.CoreCompileInputs.cache
+C:\PC1\PL_1\Proyecto_1\obj\Debug\net10.0\Proyecto_1.sourcelink.json
+C:\PC1\PL_1\Proyecto_1\obj\Debug\net10.0\Proyecto_1.dll
+C:\PC1\PL_1\Proyecto_1\obj\Debug\net10.0\refint\Proyecto_1.dll
+C:\PC1\PL_1\Proyecto_1\obj\Debug\net10.0\Proyecto_1.pdb
+C:\PC1\PL_1\Proyecto_1\obj\Debug\net10.0\Proyecto_1.genruntimeconfig.cache
+C:\PC1\PL_1\Proyecto_1\obj\Debug\net10.0\ref\Proyecto_1.dll
